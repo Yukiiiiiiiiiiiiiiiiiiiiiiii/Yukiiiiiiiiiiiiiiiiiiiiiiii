@@ -1,5 +1,4 @@
 # Hello, im Yu
-##
 i like making music (even though im shit at it)
 ##
 im in cybersecurity
